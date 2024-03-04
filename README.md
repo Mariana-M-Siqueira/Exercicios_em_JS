@@ -1,7 +1,7 @@
 # Exercicios_em_JS
 **Objetivo:** Exercícios com Javascript para aprimorar meus conhecimentos sobre a linguagem.
 
-Criado a partir de uma atividade do meu curso "Informática para Internet" na ETEC PG.
+Atividade para aprimorar mais ainda meus conhecimentos básicos sobre Javascript e Bootstrap.
 
 ## Exercícios
 <ul>
